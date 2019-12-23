@@ -46,3 +46,5 @@ pages.send(message.channel)
 ```
 
 ![image](https://i.imgur.com/Bq0rhpt.gif)
+
+> Credits to [MiracleUnona](https://github.com/miracleUnona)
