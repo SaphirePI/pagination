@@ -1,3 +1,7 @@
+<center>
+    <img src="https://i.imgur.com/S0uPwGA.png" />
+</center>
+
 # Pagination
 
 - [Pagination](#Pagination)
