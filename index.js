@@ -16,7 +16,10 @@ const inject = (client_object, field) => {
     });
 }
 const checkForClient = () => this.client ? true : new Error("No client provided");
-
+/** 
+* Author @MiracleUnona
+* Author https://github.com/MiracleUnona
+*/
 const Pages = class Pages {
     constructor(userId = '', pages = [], time = 120000, reactions = {
         first: '⏪', back: '⬅', stop: '⏸', next: '➡', last: '⏩'
